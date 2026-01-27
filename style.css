@@ -21,3 +21,7 @@
     -webkit-box-shadow: 0px 0px 4px lightblue;
     box-shadow: 0px 0px 4px lightblue;
 }
+
+.text-secondary {
+    font-size: small;
+}
